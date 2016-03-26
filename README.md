@@ -1,2 +1,2 @@
 # free-toyrobot
-ToyRobot Implementation using Free Monads
+Toy Robot AST generator using Free Monads
